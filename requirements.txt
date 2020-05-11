@@ -6,7 +6,6 @@ configparser==3.5.0b2
 cryptography==2.6.1
 entrypoints==0.3
 enum34==1.1.6
-euca2ools===3.3-devel
 Flask==1.1.1
 idna==2.6
 ipaddress==1.0.17
